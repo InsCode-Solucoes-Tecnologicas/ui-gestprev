@@ -2,7 +2,7 @@
 
 Front da plataforma **GestPrev** — React + Vite + TypeScript. Primeiro módulo: Calculadora Previdenciária.
 
-A API fica no repositório [api-gestprev](https://github.com/ins-batista/api-gestprev).
+A API fica no repositório [api-gestprev](https://github.com/InsCode-Solucoes-Tecnologicas/api-gestprev).
 
 ## Subir tudo junto (recomendado)
 
